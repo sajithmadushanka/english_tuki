@@ -1,4 +1,4 @@
-package com.example.english_tuki
+package com.apptuki.english_tuki
 
 import io.flutter.embedding.android.FlutterActivity
 
